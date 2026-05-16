@@ -10,8 +10,8 @@
  
 [Dataset Information](#-Dataset-Information)
 
-5. [Data Cleaning & Preparation (Power Query)](#-Data-Cleaning-&-Preparation-(Power Query))
-6. 
+[Data Cleaning & Preparation (Power Query)](#-Data-Cleaning-&-Preparation-(Power Query))
+
 7. Dashboard Pages
 8. Business Questions Answered
 9. DAX Measures Used
@@ -48,7 +48,7 @@ The main objectives of this project were to:
 
 ---
 
-# 🛠️ Tools and Technologies Used
+## 🛠️ Tools and Technologies Used
 
 | Tool        | Purpose                               |
 | ----------- | ------------------------------------- |
