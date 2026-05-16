@@ -371,14 +371,24 @@ The analysis demonstrates how business intelligence tools can support data-drive
 # 📷 Dashboard Preview
 
 
-### Page 1 – Performance Overview
+### Page 1 – Executive Overview
 
-<img width="935" height="541" alt="E-commerce page1.png" src="https://github.com/user-attachments/assets/911edef5-6231-4474-9625-90e5ce919d67" />
+<img width="1171" height="724" alt="E-commerce page1" src="https://github.com/user-attachments/assets/c04b59f4-aa7b-47d0-a1e3-006223405664" />
 
 
-### Page 2 – Detailed Insights
+### Page 2 – Product Analysis
 
-<img width="1306" height="724" alt="Dashboard Screenshot page2  png" src="https://github.com/user-attachments/assets/d8904f2c-32ff-4273-9e9d-576f9735f230" />
+<img width="973" height="679" alt="E-commerce page2" src="https://github.com/user-attachments/assets/adc284e0-f74e-4a97-a117-f907e1942529" />
+
+
+### Page 3 – Customer Insights
+
+<img width="1023" height="582" alt="E-commerce page3" src="https://github.com/user-attachments/assets/c3046d46-2909-485f-8091-50eacf1515ec" />
+
+
+### Page 4 –  Transaction Analysis
+
+<img width="923" height="518" alt="E-commerce page4" src="https://github.com/user-attachments/assets/e2043dc1-cf76-4651-9ca4-2f1ec8297c93" />
 
 
 
