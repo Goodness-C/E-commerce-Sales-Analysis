@@ -8,19 +8,21 @@
 
 [Tools and Technologies Used](#-Tools-and-Technologies-Used)
  
-4. Dataset Information
-5. Data Cleaning & Preparation
-6. Dashboard Pages
-7. Business Questions Answered
-8. DAX Measures Used
-9. Dashboard Design Approach
-10. Challenges Encountered
-11. Business Recommendations
-12. Future Improvements
-13. Conclusion
-14. Dashboard Preview
-15. Author
-16. Project Status
+[Dataset Information](#-Dataset-Information)
+
+5. [Data Cleaning & Preparation (Power Query)](#-Data-Cleaning-&-Preparation-(Power Query))
+6. 
+7. Dashboard Pages
+8. Business Questions Answered
+9. DAX Measures Used
+10. Dashboard Design Approach
+11. Challenges Encountered
+12. Business Recommendations
+13. Future Improvements
+14. Conclusion
+15. Dashboard Preview
+16. Author
+17. Project Status
 
 ## 📌 Project Overview
 
