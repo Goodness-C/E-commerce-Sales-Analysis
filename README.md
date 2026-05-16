@@ -370,7 +370,17 @@ The analysis demonstrates how business intelligence tools can support data-drive
 
 # 📷 Dashboard Preview
 
-(Add your dashboard screenshots here)
+
+### Page 1 – Performance Overview
+
+<img width="935" height="541" alt="Dashboard Screenshot page1  png" src="https://github.com/user-attachments/assets/911edef5-6231-4474-9625-90e5ce919d67" />
+
+
+### Page 2 – Detailed Insights
+
+<img width="1306" height="724" alt="Dashboard Screenshot page2  png" src="https://github.com/user-attachments/assets/d8904f2c-32ff-4273-9e9d-576f9735f230" />
+
+
 
 ---
 
