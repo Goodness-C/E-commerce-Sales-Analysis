@@ -129,6 +129,28 @@ Date fields were transformed to support:
 
 The Power BI dashboard was divided into multiple analytical pages for better storytelling and user experience.
 
+
+### Page 1 – Executive Overview
+
+<img width="1171" height="724" alt="E-commerce page1" src="https://github.com/user-attachments/assets/c04b59f4-aa7b-47d0-a1e3-006223405664" />
+
+
+### Page 2 – Product Analysis
+
+<img width="973" height="679" alt="E-commerce page2" src="https://github.com/user-attachments/assets/adc284e0-f74e-4a97-a117-f907e1942529" />
+
+
+### Page 3 – Customer Insights
+
+<img width="1023" height="582" alt="E-commerce page3" src="https://github.com/user-attachments/assets/c3046d46-2909-485f-8091-50eacf1515ec" />
+
+
+### Page 4 –  Transaction Analysis
+
+<img width="923" height="518" alt="E-commerce page4" src="https://github.com/user-attachments/assets/e2043dc1-cf76-4651-9ca4-2f1ec8297c93" />
+
+
+
 ---
 
 # 1️⃣ Executive Overview
