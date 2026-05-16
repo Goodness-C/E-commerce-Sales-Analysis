@@ -28,9 +28,11 @@
 
 [Conclusion](#-Conclusion)
 
-15. Dashboard Preview
-16. Author
-17. Project Status
+[Dashboard Preview](#-Dashboard-Preview)
+
+[Author](#-Author)
+
+[Project Status](#-Project-Status)
 
 ## 📌 Project Overview
 
