@@ -48,7 +48,7 @@ The main objectives of this project were to:
 
 ---
 
-## 🛠️ Tools and Technologies Used
+# 🛠️ Tools and Technologies Used
 
 | Tool        | Purpose                               |
 | ----------- | ------------------------------------- |
