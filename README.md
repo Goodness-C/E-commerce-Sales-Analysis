@@ -6,7 +6,7 @@
  
 [Project Objectives](#-Project-Objectives)
 
-[Tools & Technologies Used](#-Tools-&-Technologies-Used)
+[Tools and Technologies Used](#-Tools-and-Technologies-Used)
  
 4. Dataset Information
 5. Data Cleaning & Preparation
@@ -46,7 +46,7 @@ The main objectives of this project were to:
 
 ---
 
-# 🛠️ Tools & Technologies Used
+# 🛠️ Tools and Technologies Used
 
 | Tool        | Purpose                               |
 | ----------- | ------------------------------------- |
