@@ -10,7 +10,7 @@
  
 [Dataset Information](#-Dataset-Information)
 
-[Data Cleaning & Preparation (Power Query)](#-Data-Cleaning-&-Preparation-(Power Query))
+[Data Cleaning and Preparation](#-Data-Cleaning-and-Preparation)
 
 7. Dashboard Pages
 8. Business Questions Answered
