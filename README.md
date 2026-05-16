@@ -4,7 +4,7 @@
 
  [Project Overview](#Project-Overview) 
  
-2. [Project Objectives](Project-Objectives)
+ [Project Objectives](Project-Objectives)
 3. Tools & Technologies Used
 4. Dataset Information
 5. Data Cleaning & Preparation
