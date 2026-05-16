@@ -76,7 +76,7 @@ Dataset source:
 
 ---
 
-# 🧹 Data Cleaning & Preparation (Power Query)
+# 🧹 Data Cleaning and Preparation 
 
 Data preprocessing and transformation were performed using Power Query inside Power BI.
 
