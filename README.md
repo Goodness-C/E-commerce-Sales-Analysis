@@ -3,10 +3,11 @@
 # 📑 Table of Contents
 
  [Project Overview](#Project-Overview) 
+ 
  [Project Objectives](Project-Objectives)
 
+ [Tools & Technologies Used](Tools-&-Technologies-Used)
  
-3. Tools & Technologies Used
 4. Dataset Information
 5. Data Cleaning & Preparation
 6. Dashboard Pages
