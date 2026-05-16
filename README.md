@@ -12,14 +12,22 @@
 
 [Data Cleaning and Preparation](#-Data-Cleaning-and-Preparation)
 
-7. Dashboard Pages
-8. Business Questions Answered
-9. DAX Measures Used
-10. Dashboard Design Approach
-11. Challenges Encountered
-12. Business Recommendations
-13. Future Improvements
-14. Conclusion
+[Dashboard Pages](#-Dashboard-Pages)
+
+[Key Business Questions Answered](#-Key-Business-Questions-Answered)
+
+[DAX Measures Used](#-DAX-Measures-Used)
+
+[Dashboard Design Approach](#-Dashboard-Design-Approach)
+
+[Challenges Encountered](#-Challenges-Encountered)
+
+[Business Recommendations](#-Business-Recommendations)
+
+[Future Improvements](#-Future-Improvements)
+
+[Conclusion](#-Conclusion)
+
 15. Dashboard Preview
 16. Author
 17. Project Status
